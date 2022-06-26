@@ -1,4 +1,4 @@
 # odin-recipes
 recipe website
 
-// This project will be a recipe website, intended to show the usage of HTML through including dishes, descriptions, ingredients and steps.
+// This is a basic recipe website, using only HTML code throughout including dishes, descriptions, ingredients and steps. Will later include CSS, mainly flexbox and grid
